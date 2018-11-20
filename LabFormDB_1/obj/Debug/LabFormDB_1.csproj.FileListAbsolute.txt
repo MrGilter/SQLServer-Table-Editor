@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.Form1.resources
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\bin\Debug\LabFormDB_1.exe.config
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\bin\Debug\LabFormDB_1.exe
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\bin\Debug\LabFormDB_1.pdb
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.exe
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.pdb
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.Form2.resources
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.Form3.resources
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.Form4.resources
+C:\Users\Andrey\source\repos\Lab_connection_database_1\LabFormDB_1\obj\Debug\LabFormDB_1.csprojAssemblyReference.cache
